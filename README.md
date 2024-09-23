@@ -217,10 +217,3 @@ Seque abaixo as referências bibliográficas usadas no presente projeto:
 
 ---
 
-<p align="justify">
-<a id="Spring-Boot-and-Vue.js"></a>
-[DULDULAO, Devlin Basilan, VILLAFRANCA], Seiji Ralph. [<a href="https://a.co/d/htReU6n">Spring Boot and Vue.js: Hands-on full stack web development with Java, Spring, and Vue.js</a>]. 1 Ed. Birmingham B3 2PB, UK.: Packt Publishing, Copyright © 2022. 438 p. (Nome da série e/ou coleção, ISBN 978-1-80324-321-4). Disponível em: < <a href="https://a.co/d/htReU6n">https://a.co/d/htReU6n</a> >. Acesso em: 29 mai.2024.
-</a>
-
----
-
