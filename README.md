@@ -121,7 +121,11 @@ Aqui temos uma lista do que idenficamos com status de pendente:
 Segue abaixo (não se limita) os objetivos do presente projeto:
 
 - [X] ~~Formatando documentação README.md~~
-- [X] ~~[INDEXAÇÃO VÍDEO 3237 – 03.04.07.07 – Técnicas avançadas de aprendizado acelerado para devs que usam Java no backend – Elder Moraes – Questões](repo-docs/indexacoes/INDEXAÇÃO%20VÍDEO%203237%20–%2003.04.07.07%20–%20Técnicas%20avançadas%20de%20aprendizado%20acelerado%20para%20devs%20que%20usam%20Java%20no%20backend%20–%20Elder%20Moraes%20–%20Questões.pdf)~~. (veja mais [detalhes aqui](repo-docs/indexacoes/README.md))
+- [ ] Indexação de Vídeos/Playlists: 
+  - [X] ~~[INDEXAÇÃO VÍDEO 3237 – 03.04.07.07 – Técnicas avançadas de aprendizado acelerado para devs que usam Java no backend – Elder Moraes – Questões](repo-docs/indexacoes/INDEXAÇÃO%20VÍDEO%203237%20–%2003.04.07.07%20–%20Técnicas%20avançadas%20de%20aprendizado%20acelerado%20para%20devs%20que%20usam%20Java%20no%20backend%20–%20Elder%20Moraes%20–%20Questões.pdf)~~. (veja mais [detalhes aqui](repo-docs/indexacoes/README.md))
+  - [ ] [VIDEO LONGO 21854 – 03.04.07.12.10 – Masterclass Vue.JS 2024 – Cod3r Cursos – Questões](repo-docs/indexacoes/VIDEO%20LONGO%2021854%20–%2003.04.07.12.10%20–%20Masterclass%20Vue.JS%202024%20–%20Cod3r%20Cursos%20–%20Questões.pdf). Indexação incompleta! Trabalho em progresso e sempre revisitando para atualização dos conceitos para aplicar a técnica de revisão espaçada!
+  - [ ] [VIDEO LONGO 025644 – 03.04.07.12.10 – Vue.js Crash Course 2024 - Traversy Media – Questões](repo-docs/indexacoes/VIDEO%20LONGO%20025644%20–%2003.04.07.12.10%20–%20Vue.js%20Crash%20Course%202024%20-%20Traversy%20Media%20–%20Questões.pdf). Indexação incompleta! Trabalho em progresso e sempre revisitando para atualização dos conceitos para aplicar a técnica de revisão espaçada!
+  
 - [ ] Conversão Arquivos de Configurações necessários
 - [ ] Conversão Pastas necessárias
 - [ ] Fatiar o Template HTML [AdminLTE - Bootstrap 5 Admin Dashboard](https://github.com/ColorlibHQ/AdminLTE?tab=readme-ov-file#adminlte---bootstrap-5-admin-dashboard) em componentes Vue.js
