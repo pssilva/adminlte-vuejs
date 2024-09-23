@@ -4,27 +4,7 @@ Converter o projeto [AdminLTE (v3.2.0) - Bootstrap 5 Admin Dashboard](https://gi
 
 Se trata de um projeto prático prova de conceito POC para deixar pegadas digitais e ser próativo para os processos seletivos onde as equipes técnicas de recrutadores tenham condições e evidências para verificar se o meu perfil pode atender as necessidades das oportunidades.
 
-
-## Proficiências
-
-Procuro evidência as proficiências nas seguintes habilidades técnicas:
-
-- [Vue.js Framework](https://vuejs.org/guide/introduction.html);
-- Stacks de [rotinas operacionais de Front-end]();
-- Aplica [Abordagem API First](https://swagger.io/resources/articles/adopting-an-api-first-approach/) com foco em: [Os Doze Fatores](https://12factor.net/pt_br/)
-- Técnicas em [Análise Código-fonte Legados](#FEATHERS-michael);
-- Técnicas em [Refatoração Código-fonte Legados](#FEATHERS-michael) e de Projeto Open Source:
-    - [Vue.js Framework](https://vuejs.org/guide/introduction.html) principais funcionalidades:
-        - [Padrão de Arquitetura PRPL](): Push | Render | Precache | Lazy-load
-        - [Virtual DOM]()
-        - [Components]()
-        - [Templates]()
-        - [Routing]()
-        - [Lightweight]()
-        - [Comunicação entre Componentes]()
-        - [Notifications API]()
-
-Projeto inicializado com o [`Script Automação`](scripts/src/main/criar_projeto_adminLTE_vuejs.sh): artefato `scripts/src/main/criar_projeto_adminLTE_vuejs.sh`
+---
 
 ## 🚀 Começando
 
@@ -100,6 +80,30 @@ A maneira mais fácil de implantar seu aplicativo Vue.js é usar a [Plataforma d
 Confira [documentação de implantação do Heroku](https://devcenter.heroku.com/start) para mais detalhes.
 
 ---
+
+
+## Proficiências
+
+Procuro evidência as proficiências nas seguintes habilidades técnicas:
+
+- [Vue.js Framework](https://vuejs.org/guide/introduction.html);
+- Stacks de [rotinas operacionais de Front-end]();
+- Aplica [Abordagem API First](https://swagger.io/resources/articles/adopting-an-api-first-approach/) com foco em: [Os Doze Fatores](https://12factor.net/pt_br/)
+- Técnicas em [Análise Código-fonte Legados](#FEATHERS-michael);
+- Técnicas em [Refatoração Código-fonte Legados](#FEATHERS-michael) e de Projeto Open Source:
+    - [Vue.js Framework](https://vuejs.org/guide/introduction.html) principais funcionalidades:
+        - [Padrão de Arquitetura PRPL](): Push | Render | Precache | Lazy-load
+        - [Virtual DOM]()
+        - [Components]()
+        - [Templates]()
+        - [Routing]()
+        - [Lightweight]()
+        - [Comunicação entre Componentes]()
+        - [Notifications API]()
+
+Projeto inicializado com o [`Script Automação`](scripts/src/main/criar_projeto_adminLTE_vuejs.sh): artefato `scripts/src/main/criar_projeto_adminLTE_vuejs.sh`
+
+--- 
 
 ## Template HTML AdminLTE
 
