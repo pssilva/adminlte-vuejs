@@ -5,6 +5,30 @@ Converter o projeto [AdminLTE (v3.2.0) - Bootstrap 5 Admin Dashboard](https://gi
 Se trata de um projeto prático prova de conceito POC para deixar pegadas digitais e ser próativo para os processos seletivos onde as equipes técnicas de recrutadores tenham condições e evidências para verificar se o meu perfil pode atender as necessidades das oportunidades.
 
 
+<<<<<<< Updated upstream
+=======
+## Proficiências
+
+Procuro evidência as proficiências nas seguintes habilidades técnicas:
+
+- [Vue.js Framework](https://vuejs.org/guide/introduction.html);
+- Stacks de [rotinas operacionais de Front-end]();
+- Aplica [Abordagem API First](https://swagger.io/resources/articles/adopting-an-api-first-approach/) com foco em: [Os Doze Fatores](https://12factor.net/pt_br/)
+- Técnicas em [Análise Código-fonte Legados](#FEATHERS-michael);
+- Técnicas em [Refatoração Código-fonte Legados](#FEATHERS-michael) e de Projeto Open Source:
+    - [Vue.js Framework](https://vuejs.org/guide/introduction.html) principais funcionalidades:
+        - [Padrão de Arquitetura PRPL](): Push | Render | Precache | Lazy-load
+        - [Virtual DOM]()
+        - [Components]()
+        - [Templates]()
+        - [Routing]()
+        - [Lightweight]()
+        - [Comunicação entre Componentes]()
+        - [Notifications API]()
+
+Projeto inicializado com o [`Script Automação`](scripts/src/main/criar_projeto_adminLTE_vuejs.sh): artefato `scripts/src/main/criar_projeto_adminLTE_vuejs.sh`
+
+>>>>>>> Stashed changes
 ## 🚀 Começando
 
 ### 📋 Pré-requisitos
@@ -79,6 +103,10 @@ Abra [http://localhost:3000/](http://localhost:3000/) com o seu navegador.
 Para saber mais sobre Vue.js Framework, dê uma olhada nos seguintes recursos:
 
 - [Vue.js Framework](https://vuejs.org/guide/introduction.html) - aprenda sobre os recursos e API do Vue.js Framework.
+<<<<<<< Updated upstream
+=======
+- [Learn Vue.js tutorial](https://Vue.js.dev/tutorials/learn-Vue.js) - um tutorial interativo do Vue.js Framework.
+>>>>>>> Stashed changes
 
 Você pode conferir [o repositório Vue.js Framework](https://github.com/Vue.js/Vue.js) - seus comentários e contribuições são bem-vindos!
 
@@ -94,6 +122,7 @@ Confira [documentação de implantação do Heroku](https://devcenter.heroku.com
 
 <a href="https://github.com/ColorlibHQ/AdminLTE?tab=readme-ov-file#adminlte---bootstrap-5-admin-dashboard"><img src="repo-docs/imgs/tela-adminlte.png" alt="Tela do AdminLTE" title="Tela do AdminLTE" style="width:475px; max-width: 100%;"/></a>
 
+<<<<<<< Updated upstream
 ---
 
 ## Proficiências
@@ -116,6 +145,8 @@ Procuro evidência as proficiências nas seguintes habilidades técnicas:
         - [Notifications API]()
 
 Projeto inicializado com o [`Script Automação`](scripts/src/main/criar_projeto_adminLTE_vuejs.sh): artefato `scripts/src/main/criar_projeto_adminLTE_vuejs.sh`
+=======
+>>>>>>> Stashed changes
 
 ---
 
@@ -128,7 +159,11 @@ Aqui temos uma lista do que idenficamos com status de pendente:
 Segue abaixo (não se limita) os objetivos do presente projeto:
 
 - [X] ~~Formatando documentação README.md~~
+<<<<<<< Updated upstream
 - [X] ~~[INDEXAÇÃO VÍDEO 3237 – 03.04.07.07 – Técnicas avançadas de aprendizado acelerado para devs que usam Java no backend – Elder Moraes – Questões](repo-docs/indexacoes/INDEXAÇÃO%20VÍDEO%203237%20–%2003.04.07.07%20–%20Técnicas%20avançadas%20de%20aprendizado%20acelerado%20para%20devs%20que%20usam%20Java%20no%20backend%20–%20Elder%20Moraes%20–%20Questões.pdf)~~. (veja mais [detalhes aqui](repo-docs/indexacoes/README.md))
+=======
+- [X] [INDEXAÇÃO VÍDEO 3237 – 03.04.07.07 – Técnicas avançadas de aprendizado acelerado para devs que usam Java no backend – Elder Moraes – Questões](INDEXAÇÃO%20VÍDEO%203237%20–%2003.04.07.07%20–%20Técnicas%20avançadas%20de%20aprendizado%20acelerado%20para%20devs%20que%20usam%20Java%20no%20backend%20–%20Elder%20Moraes%20–%20Questões.pdf). Vídeo totalmente indexada!
+>>>>>>> Stashed changes
 - [ ] Conversão Arquivos de Configurações necessários
 - [ ] Conversão Pastas necessárias
 - [ ] Fatiar o Template HTML [AdminLTE - Bootstrap 5 Admin Dashboard](https://github.com/ColorlibHQ/AdminLTE?tab=readme-ov-file#adminlte---bootstrap-5-admin-dashboard) em componentes Vue.js
