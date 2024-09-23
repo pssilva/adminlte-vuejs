@@ -201,31 +201,6 @@ Seque aqui as ferramentas utilizadas na construção presente projeto:
 * [Terminal Shell Linux (WSL)](https://learn.microsoft.com/pt-br/windows/wsl/install)
 
 
-## 🖇️ Colaborando
-
-Por favor, leia o [COLABORACAO.md](COLABORACAO.md) para obter detalhes sobre o nosso código de conduta e o processo para nos enviar pedidos de solicitação.
-
-## 📌 Versão
-
-Nós usamos [SemVer](http://semver.org/) para controle de versão. Para as versões disponíveis, observe as [tags neste repositório](https://github.com/suas/tags/do/projeto).
-
-## ✒️ Autores
-
-Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
-
-* **Um desenvolvedor** - *Trabalho Inicial* - [pssilva](https://github.com/pssilva)
-
-
-Você também pode ver a lista de todos os [colaboradores](COLABORACAO.md) que participaram deste projeto.
-
----
-
-## 📄 Licença
-
-Este projeto está sob a licença (sua licença) - veja o arquivo [LICENSE](LICENSE) para detalhes.
-
----
-
 ## Referencias Usadas
 
 Seque abaixo as referências bibliográficas usadas no presente projeto:
