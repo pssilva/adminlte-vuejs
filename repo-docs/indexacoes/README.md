@@ -17,9 +17,11 @@ Até o momento, aplicáveis ao presente projeto, temos as seguintes indexações
 ### Status Totalmente Indexadas
 
 * [INDEXAÇÃO VÍDEO 3237 – 03.04.07.07 – Técnicas avançadas de aprendizado acelerado para devs que usam Java no backend – Elder Moraes – Questões](INDEXAÇÃO%20VÍDEO%203237%20–%2003.04.07.07%20–%20Técnicas%20avançadas%20de%20aprendizado%20acelerado%20para%20devs%20que%20usam%20Java%20no%20backend%20–%20Elder%20Moraes%20–%20Questões.pdf). Vídeo totalmente indexada!
-* 
+
 ### Status Parcialmente Idexadas
 
+* [VIDEO LONGO 21854 – 03.04.07.12.10 – Masterclass Vue.JS 2024 – Cod3r Cursos – Questões](VIDEO%20LONGO%2021854%20–%2003.04.07.12.10%20–%20Masterclass%20Vue.JS%202024%20–%20Cod3r%20Cursos%20–%20Questões.pdf). Indexação incompleta! Trabalho em progresso e sempre revisitando para atualização dos conceitos para aplicar a técnica de revisão espaçada!
+* [VIDEO LONGO 025644 – 03.04.07.12.10 – Vue.js Crash Course 2024 - Traversy Media – Questões](VIDEO%20LONGO%20025644%20–%2003.04.07.12.10%20–%20Vue.js%20Crash%20Course%202024%20-%20Traversy%20Media%20–%20Questões.pdf). Indexação incompleta! Trabalho em progresso e sempre revisitando para atualização dos conceitos para aplicar a técnica de revisão espaçada!
 
 ---
 
