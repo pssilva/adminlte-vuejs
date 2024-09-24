@@ -55,15 +55,32 @@ cd "${WORK_PATH}"
 code .
 ```
 
-Em um terminal execute a aplicação com os seguintes comandos:
+#### Executar o Vue.js
+
+Para executar o projeto Vue.js: Em um terminal execute a aplicação com os seguintes comandos:
 
 ```bash
 cd "${WORK_PATH}"
 nvm use --lts
+npm install
 npm run dev 
 ```
 
 Abra [http://localhost:3000/](http://localhost:3000/) com o seu navegador.
+
+#### Executar o AdminLTE (Não convertido para Vue.js)
+
+Para executar o projeto Vue.js: Em um terminal execute a aplicação com os seguintes comandos:
+
+```bash
+cd "${WORK_PATH}"
+nvm use --lts
+npm install
+npm run dev-admin-lte
+ 
+```
+
+Abra [http://localhost:3001/](http://localhost:3001/) com o seu navegador.
 
 ## Saiba Mais
 
